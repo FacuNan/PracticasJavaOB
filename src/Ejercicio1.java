@@ -11,5 +11,6 @@ public class Ejercicio1 {
         String saludo= " Mi nombre es Facundo y es un placer estar en OpenBootcamp";
         System.out.println(saludo);
 
+
     }
 }

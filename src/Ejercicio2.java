@@ -23,6 +23,7 @@ public class Ejercicio2 {
     public static double precioConIva(int precio, double iva){
         double ivaCalculado = calcularIva(precio, iva);
         return precio + ivaCalculado;
+        
 
 
     }
